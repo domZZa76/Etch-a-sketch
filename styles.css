@@ -1,4 +1,5 @@
 .box {
+    margin: 30px;
     border: 2px solid red;
     height: 640px;
     width: 640px;
@@ -20,4 +21,8 @@
 
 .red {
     background-color: red;
+}
+
+button {
+    margin: 30px;
 }
