@@ -1,0 +1,23 @@
+.box {
+    border: 2px solid red;
+    height: 640px;
+    width: 640px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.column {
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.row {
+    borer: 1px solid red;
+    display: flex;
+}
+
+.red {
+    background-color: red;
+}
