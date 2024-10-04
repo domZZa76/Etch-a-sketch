@@ -35,7 +35,7 @@ button.addEventListener(('click'), () => {
     console.log(numberOfSquares)
     box.innerHTML = '';
     column = document.createElement('div');
-    
+
     for (let i = 0; i < numberOfSquares; i++) {
         let row = document.createElement('div');
         row.classList.add('row');
